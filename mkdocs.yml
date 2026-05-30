@@ -1,0 +1,120 @@
+site_name: 运动控制学习指南
+site_url: https://kinesiology-motor-control.wiki/
+site_author: EtherealStarry
+site_description: 运动控制与运动机能学自学指南
+
+repo_name: kinesiology-motor-control-guide
+repo_url: https://github.com/etherealstarry/kinesiology-motor-control-guide/
+
+copyright: Copyright &copy; 2024-present <a href="https://github.com/etherealstarry" target="_blank" rel="noopener noreferrer">EtherealStarry</a>
+
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  favicon: images/favicon.ico
+  apple-touch-icon-precomposed: images/mobile_icon.png
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+
+  icon:
+    repo: fontawesome/brands/github
+
+  custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - fenced_code
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+  # git-revision-date:  # 暂时禁用，需要Git仓库
+
+  - minify:
+      minify_html: true
+
+  - open-in-new-tab:
+
+nav:
+  - 前言: "index.md"
+  - 如何使用这个指南: "使用指南.md"
+  - 学习规划: "学习规划.md"
+  
+  - 必修课程:
+      - 基础课程:
+          - "解剖学基础": "必修课程/基础课程/解剖学基础.md"
+          - "生理学基础": "必修课程/基础课程/生理学基础.md"
+          - "运动机能学基础": "必修课程/基础课程/运动机能学基础.md"
+      - 核心课程:
+          - "运动控制理论": "必修课程/核心课程/运动控制理论.md"
+          - "运动学习": "必修课程/核心课程/运动学习.md"
+          - "神经力学": "必修课程/核心课程/神经力学.md"
+          - "生物力学": "必修课程/核心课程/生物力学.md"
+          - "运动发育": "必修课程/核心课程/运动发育.md"
+      - 研究方法:
+          - "实验设计与统计": "必修课程/研究方法/实验设计与统计.md"
+          - "科研方法": "必修课程/研究方法/科研方法.md"
+  
+  - 研究方向:
+      - "运动控制与学习": "研究方向/运动控制与学习.md"
+      - "神经康复": "研究方向/神经康复.md"
+      - "生物力学应用": "研究方向/生物力学应用.md"
+      - "运动表现优化": "研究方向/运动表现优化.md"
+  
+  - 学习工具:
+      - "文献管理": "学习工具/文献管理.md"
+      - "数据分析工具": "学习工具/数据分析工具.md"
+      - "实验设备使用": "学习工具/实验设备使用.md"
+      - "学术写作": "学习工具/学术写作.md"
+  
+  - 好书推荐: "好书推荐.md"
+  
+  - 拓展资源:
+      - "在线课程": "拓展资源/在线课程.md"
+      - "学术会议": "拓展资源/学术会议.md"
+      - "研究实验室": "拓展资源/研究实验室.md"
+      - "实习与就业": "拓展资源/实习与就业.md"
+  
+  - 后记: "后记.md"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/etherealstarry/kinesiology-motor-control-guide/
