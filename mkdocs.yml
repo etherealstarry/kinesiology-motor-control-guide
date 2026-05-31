@@ -71,62 +71,7 @@ plugins:
 
   - open-in-new-tab:
 
-nav:
-  - 首页: index.md
-  - 使用指南: 使用指南.md
-  - 学习规划: 学习规划.md
-
-  - 必修课程:
-      - 核心课程:
-          - "Motor Neuroscience I (KINE 606)": "必修课程/核心课程/Motor-Neuroscience-I.md"
-          - "Motor Neuroscience II (KINE 640)": "必修课程/核心课程/Motor-Neuroscience-II.md"
-          - "运动发育 (KINE 641)": "必修课程/核心课程/Motor-Neuroscience-Developmental.md"
-          - "自组织理论 (KINE 642)": "必修课程/核心课程/Self-Organization.md"
-          - "生物力学 (KINE 627)": "必修课程/核心课程/Exercise-Biomechanics.md"
-      - 研究方法:
-          - "研究理论 (KINE 690)": "必修课程/研究方法/Theory-of-Research.md"
-          - "文献阅读 (KINE 601)": "必修课程/研究方法/Reading-Research.md"
-          - "博士研讨 (KINE 6821)": "必修课程/研究方法/Doctoral-Seminar.md"
-          - "科研基金写作 (KINE 614)": "必修课程/研究方法/Fund-Development.md"
-      - 统计与工具:
-          - "统计学 II (STAT 652)": "必修课程/统计工具/Statistics-II.md"
-          - "回归分析 (STAT 608)": "必修课程/统计工具/Regression-Analysis.md"
-          - "多元统计分析 (STAT 636)": "必修课程/统计工具/Multivariate-Analysis.md"
-          - "贝叶斯统计 (STAT 638)": "必修课程/统计工具/Bayesian-Statistics.md"
-          - "R与Python统计 (STAT 654)": "必修课程/统计工具/Stats-R-Python.md"
-
-  - 神经科学基础:
-      - "神经科学原理 I (NRSC 601)": "神经科学基础/Principles-of-Neuroscience-I.md"
-      - "神经科学原理 II (NRSC 602)": "神经科学基础/Principles-of-Neuroscience-II.md"
-      - "神经解剖学 (NRSC 603)": "神经科学基础/Neuroanatomy.md"
-      - "神经解剖系统 (NRSC 605)": "神经科学基础/Neuroanatomical-Systems.md"
-      - "学习 (NRSC 606)": "神经科学基础/Learning-Neuroscience.md"
-      - "功能神经解剖 (NRSC 621)": "神经科学基础/Functional-Neuroanatomy.md"
-      - "神经影像数据分析 (NRSC 642)": "神经科学基础/Neuroimaging-Data-Analysis.md"
-
-  - 研究方向:
-      - "运动控制与学习": "研究方向/运动控制与学习.md"
-      - "神经康复": "研究方向/神经康复.md"
-      - "神经力学": "研究方向/神经力学.md"
-      - "运动表现优化": "研究方向/运动表现优化.md"
-
-  - 学习工具:
-      - "文献管理 (KINE 601)": "学习工具/文献管理.md"
-      - "数据分析工具": "学习工具/数据分析工具.md"
-      - "脑刺激技术 (KINE 689)": "学习工具/脑刺激技术.md"
-      - "神经力学研究方法 (KINE 689)": "学习工具/神经力学研究方法.md"
-      - "学术写作": "学习工具/学术写作.md"
-
-  - 教授与实验室: 教授与实验室.md
-
-  - 好书推荐: 好书推荐.md
-
-  - 拓展资源:
-      - "学术会议": "拓展资源/学术会议.md"
-      - "研究实验室": "拓展资源/研究实验室.md"
-      - "实习与就业": "拓展资源/实习与就业.md"
-
-  - 后记: 后记.md
+# nav: 自动从 docs/ 目录结构生成，无需手动维护
 
 extra:
   social:
