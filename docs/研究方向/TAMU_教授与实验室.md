@@ -22,26 +22,44 @@
 
 ## 🔬 Motor Neuroscience 方向教授
 
-### 1️⃣ [你的导师姓名]（待补充）
+### 1️⃣ Lei Yuming（雷宇明）副教授
 
-!!! tip "这是你的导师"
-    请在入学后补充你导师的信息。
+!!! tip "你的导师"
+    雷宇明教授是你在 TAMU 的导师，研究方向为**脑刺激与运动控制**。
 
-**职称**：Associate Professor / Professor  
-**研究方向**：
-- 待补充（如：Motor Control, Motor Learning, Neurorehabilitation）
-
-**实验室**：
-- **名称**：待补充
-- **地点**：待补充
-- **设备**：待补充（如：EEG, fMRI, 运动捕捉系统）
-
-**代表性论文**：
-- 待补充
-
+**职称**：Associate Professor  
+**所属**：Department of Health and Kinesiology, Texas A&M University  
+**办公室**：Gibb Gilchrist Building (GGB) 328 室  
 **联系方式**：
-- Email: 待补充
-- 个人主页：[链接](待补充)
+- Email: yxl907@tamu.edu
+- 个人主页：[yuminglab.github.io](https://yuminglab.github.io/)
+- Google Scholar：[主页](https://scholar.google.com/citations?user=Ms8WOHEAAAAJ)
+
+**研究方向**：
+- 🧠 **脑刺激**（Brain Stimulation）：经颅超声刺激（TUS）、tDCS、TMS
+- 🏃 **运动控制与学习**（Motor Control & Learning）：记忆巩固、运动适应
+- 🏥 **神经康复治疗**（Neurorehabilitation）：脑卒中康复、脊髓刺激
+
+**代表性论文**（高被引）：
+
+| 年份 | 论文标题 | 期刊 | 被引 |
+|------|----------|------|------|
+| 2025 | A Causal Role for the Hippocampus in Gating Rapid Motor Memory Consolidation | bioRxiv | 新发表 |
+| 2024 | Personalized depth-specific neuromodulation of the human primary motor cortex via ultrasound | *Journal of Physiology* | 34 |
+| 2024 | Memory consolidation of sequence learning and dynamic adaptation during wakefulness | *Cerebral Cortex* | 12 |
+| 2023 | Effects of transcranial direct current stimulation over human motor cortex on cognitive-motor and sensory-motor functions | *Scientific Reports* | 22 |
+| 2025 | Spinal cord ultrasound stimulation modulates corticospinal excitability in humans | *Brain Stimulation* | 7 |
+
+**实验室**：**Yuming Neuromodulation Lab（雷宇明神经调控实验室）**  
+**实验室主页**：[yuminglab.github.io](https://yuminglab.github.io/)
+
+- **主要设备**：经颅超声刺激系统（TUS）、tDCS、TMS、EEG、EMG、测力台
+- **研究特色**：利用**超声神经调控**（Ultrasound Neuromodulation）这一新兴技术，精准调控运动皮层，研究运动学习与记忆巩固机制
+
+**加入实验室的建议**：
+1. 提前阅读实验室近 3 年发表的论文（特别是 2023-2025 年）
+2. 邮件联系时附上你的**研究兴趣**和**背景**（编程、统计学基础很重要）
+3. 入学后去 GGB 328 办公室面谈，了解实验室文化
 
 ---
 
