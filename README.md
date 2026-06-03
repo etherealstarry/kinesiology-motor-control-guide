@@ -50,9 +50,9 @@
 
 ### 在线访问
 
-网站部署后可通过以下链接访问：
-- 中文版：[https://kinesiology-motor-control.wiki/](https://kinesiology-motor-control.wiki/)
-- GitHub仓库：[https://github.com/etherealstarry/kinesiology-motor-control-guide](https://github.com/etherealstarry/kinesiology-motor-control-guide)
+网站已部署到 GitHub Pages，可通过以下链接访问：
+- 🌐 **网站地址**：[https://etherealstarry.github.io/kinesiology-motor-control-guide/](https://etherealstarry.github.io/kinesiology-motor-control-guide/)
+- 📂 **GitHub 仓库**：[https://github.com/etherealstarry/kinesiology-motor-control-guide](https://github.com/etherealstarry/kinesiology-motor-control-guide)
 
 ### 本地运行
 
