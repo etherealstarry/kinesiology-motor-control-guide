@@ -415,4 +415,18 @@ $$
 
 ---
 
+## 🆕 最新研究动态
+
+### 2026 年 5 月
+
+!!! tip "A communication subspace relays context-dependent actions from human prefrontal to motor cortex"
+    **作者**：Neha Binish, Jonas Terlau, Jan Martini, Jack J. Lin, Robert T. Knight, Randolph F. Helfrich  
+    **期刊**：Nature Neuroscience (2026)  
+    **影响因子**：25.0  
+    **核心发现**：研究通过人类前额叶皮层（PFC）和初级运动皮层（M1）的颅内记录，发现 PFC 高维活动中存在一个通讯子空间，可在单试次水平选择性传递与行为相关的信息。该子空间的活动比单独任一脑区的活动更能预测情境依赖的动作。  
+    **对你的意义**：支持你对运动计划与执行（KINE 606 Week 7-8）的理解，揭示了前额叶到运动皮层的通讯机制，是顶刊直接相关研究。  
+    **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02290-4)
+
+---
+
 *本页面由 EtherealStarry 维护，欢迎通过 GitHub PR 贡献内容。*
