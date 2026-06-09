@@ -263,6 +263,16 @@ $$
 - 学习新运动技能后，**一定要保证当晚的睡眠**
 - 午睡（甚至 20 分钟）也能促进巩固
 
+#### 最新研究动态（2026 年 6 月）
+
+!!! tip "Induction of cortical on/off periods in awake mice fulfills sleep functions"
+    **作者**：Driessen, K., Squarcio, F., Tononi, G., & Cirelli, C.
+    **期刊**：Nature Neuroscience (2026)
+    **影响因子**：25.0
+    **核心发现**：在清醒小鼠中通过光遗传学诱导皮层 on/off 周期（模拟慢波睡眠），可以降低局部睡眠需求、减少突触强度标志物，并在睡眠剥夺期间恢复记忆巩固功能。这表明睡眠的核心功能（突触下调和记忆巩固）可以通过皮层 on/off 周期实现，而不需要真正的睡眠。
+    **对你的意义**：这项研究表明睡眠的"开/关"周期（slow-wave activity）是记忆巩固的关键。对于你的 QE 考试复习（KINE 640），这意味着：学习后保证睡眠不仅在行为上有帮助，更有深层的突触水平机制。如果你熬夜复习，这篇论文提供了为什么这是坏主意的直接证据。
+    **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02318-9)
+
 #### 激活再现（Reactivation）
 
 **核心发现**：睡眠中，学习时活跃的神经元会"重放"（Replay）训练序列
@@ -335,6 +345,16 @@ $$
 **争议**：
 - 效应量小（行为改变通常 < 10%）
 - 个体差异大（有些人"响应者"，有些人"非响应者"）
+
+#### 最新研究动态（2026 年 6 月）
+
+!!! tip "Harmonizing the stimulation dose of focal transcranial direct current stimulation across target sites"
+    **作者**：Thielscher, A., Hayek, D., Puonti, O., et al. (包括 Michael A. Nitsche)
+    **期刊**：NeuroImage (2026)
+    **影响因子**：5.7
+    **核心发现**：提出了一种基于建模的框架，用于标准化不同靶区的 tDCS 剂量-反应研究。通过在组水平协调不同靶区的电场强度（目标强度 0.2 V/m），同时保留个体间变异性，该框架能够系统分析电场强度与行为、神经影像结果的关系。
+    **对你的意义**：这是 tDCS 方法学的重要进展，为你的实验设计提供了剂量标准化的参考方案。如果你计划使用 tDCS 作为干预手段，这篇论文是必读文献。
+    **链接**：[PubMed](https://pubmed.ncbi.nlm.nih.gov/41887548/) | [DOI](https://doi.org/10.1016/j.neuroimage.2026.121882)
 
 ---
 
