@@ -417,6 +417,16 @@ $$
 
 ## 🆕 最新研究动态
 
+### 2026 年 6 月
+
+!!! tip "Human learning of noninvasive brain–computer interfaces via manifold geometry"
+    **作者**：Busch, E. L., Fincke, E. C., Lajoie, G., Krishnaswamy, S., & Turk-Browne, N. B.  
+    **期刊**：Nature Neuroscience (2026)  
+    **影响因子**：25.0  
+    **核心发现**：脑活动存在天然的"内在流形"几何结构，BCI 的学习效果高度依赖控制映射与这一结构的匹配度。当映射符合流形的方差方向时，人类可以快速学会 BCI 控制；当映射不符合流形结构时，学习无法发生。  
+    **对你的意义**：支持你对运动学习（KINE 606 Week 11-12）的理解，揭示了脑机接口学习的几何约束机制，为你的研究方向（TMS/运动神经科学）提供了跨学科视角。  
+    **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02311-2)
+
 ### 2026 年 5 月
 
 !!! tip "A communication subspace relays context-dependent actions from human prefrontal to motor cortex"
