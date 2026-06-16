@@ -4,6 +4,13 @@
 
 ### 最近执行记录
 
+- **2026-06-10**：执行更新。
+  - 添加 1 篇顶刊论文：
+    1. Nature Neuroscience (2026 年 6 月 9 日) — "Human learning of noninvasive brain–computer interfaces via manifold geometry"
+  - 提交：`25fc2b2 chore: 自动更新 - 2026-06-10`
+  - 部署：成功（HTTP 200）
+  - 注意：论文关于脑机接口学习的流形几何机制，与运动学习相关，属于顶刊高质量内容
+
 - **2026-06-09**：执行更新。
   - 添加 2 篇顶刊论文：
     1. Nature Neuroscience (2026 年 6 月 8 日) — "Induction of cortical on/off periods in awake mice fulfills sleep functions"
