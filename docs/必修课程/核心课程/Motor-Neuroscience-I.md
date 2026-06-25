@@ -427,6 +427,30 @@ $$
     **对你的意义**：支持你对运动学习（KINE 606 Week 11-12）的理解，揭示了脑机接口学习的几何约束机制，为你的研究方向（TMS/运动神经科学）提供了跨学科视角。  
     **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02311-2)
 
+!!! tip "Parameter Specific Modulation of Neuronal Firing and Extracellular Action Potential Dynamics by Transcranial Focused Ultrasound Stimulation in Rat Motor Cortex"
+    **作者**：Huang, H., Smets, C., Chen, L., & McLaughlin, M.  
+    **期刊**：Brain Stimulation (2026)  
+    **影响因子**：7.6  
+    **核心发现**：经颅聚焦超声刺激（TUS）可以以参数依赖、区域特异性的方式调控运动皮层的放电率和细胞外动作电位波形特征。500 Hz PRF + 800 μs PD 是最优兴奋参数组合，可显著升高运动皮层放电率。  
+    **对你的意义**：直接涉及运动皮层的神经调控，与你的研究方向（TMS/运动皮层可塑性）高度相关。TUS 作为新型无创神经调控技术，可能与 TMS 产生协同效应。  
+    **链接**：[Brain Stimulation](https://doi.org/10.1016/j.brs.2026.06.001)
+
+!!! tip "Striatal pathways dissociably control action counting and goal-directed steering"
+    **作者**：Fallon, I. P., Roshchina, M., Hong, F., Fernandez, S., Ruan, S., & Yin, H. H.  
+    **期刊**：Nature Neuroscience (2026)  
+    **影响因子**：25.0  
+    **核心发现**：纹状体直接通路和间接通路对动作计数和运动导向的调控作用完全相反且可分离。激活直接通路会将运动导向对侧并延长动作序列，激活间接通路会将运动导向同侧并提前终止动作序列。  
+    **对你的意义**：支持你对运动控制（KINE 606 Week 15-16）的理解，揭示了基底神经节通路在动作序列控制中的具体机制，为运动障碍（如帕金森病）的研究提供了新见解。  
+    **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02330-z)
+
+!!! tip "Online planning of sequential actions"
+    **作者**：Diedrichsen, J., Kashefi, M., Nazerzadeh, A., & Pruszynski, J. A.  
+    **期刊**：Trends in Cognitive Sciences (2026)  
+    **影响因子**：15.4  
+    **核心发现**：新实验揭示在执行 ongoing movement 时，多个未来动作会在线规划。这种在线规划机制为不可预测和已学习的动作序列的产生提供了统一解释。  
+    **对你的意义**：支持你对运动计划与执行（KINE 606 Week 7-8）的理解，揭示了序列动作产生的在线规划机制，为你的研究方向（运动学习）提供了理论框架。  
+    **链接**：[Trends in Cognitive Sciences](https://doi.org/10.1016/j.tics.2026.06.002)
+
 ### 2026 年 5 月
 
 !!! tip "A communication subspace relays context-dependent actions from human prefrontal to motor cortex"
