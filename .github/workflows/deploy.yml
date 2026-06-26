@@ -23,8 +23,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       
-      - name: Build and deploy
+      - name: Build MkDocs site
+        run: mkdocs build
+      
+      - name: Deploy to gh-pages
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          mkdocs gh-deploy --force
+          git fetch origin gh-pages || true
+          cp -r site /tmp/site-built
+          git checkout gh-pages || git checkout --orphan gh-pages
+          rm -rf *
+          cp -r /tmp/site-built/* .
+          touch .nojekyll
+          git add -A
+          git commit -m "Deploy site" || echo "No changes to commit"
+          git push origin gh-pages --force
