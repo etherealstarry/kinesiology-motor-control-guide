@@ -9,6 +9,13 @@
 
 ## 🎯 关于本指南
 
+!!! info "🔥 新增：TAMU 备考资源总汇"
+    👉 **[备考资源总汇 →](备考资源总汇.md)** — 适用于所有课程的通用高分攻略、官方免费工具（ASC/StudyHub/Writing Center）、考前72h清单、全部真题获取渠道。
+    
+    👉 **[核心课程总览 →](核心课程/index.md)** — 18 门 KINE/STAT 课程独立页面（含自编闪卡、模拟考题、阅读清单）。
+
+---
+
 本指南模仿 [CS自学指南](https://csdiy.wiki/) 的风格，专为 **Texas A&M University (TAMU) Kinesiology 系 Motor Neuroscience 方向博士生** 打造。
 
 内容基于本人真实培养方案整理，涵盖：

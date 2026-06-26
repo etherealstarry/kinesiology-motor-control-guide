@@ -4,6 +4,13 @@
 
 ### 最近执行记录
 
+- **2026-06-26**：执行更新。
+  - 添加 1 篇顶刊论文：
+    1. Neuron (2026 年 6 月 17 日) — "A cortical circuit for orchestrating oromanual food manipulation"
+  - 提交：`77e0aea chore: 自动更新 - 2026-06-26`
+  - 部署：成功（HTTP 200）
+  - 注意：论文鉴定出 RFO 运动皮层区域，该区域协调手-口取食动作，与运动皮层功能组织相关，属于 Neuron 顶刊高质量内容
+
 - **2026-06-25**：执行更新。
   - 添加 3 篇顶刊论文：
     1. Brain Stimulation (2026 年 6 月 24 日) — "Parameter Specific Modulation of Neuronal Firing and Extracellular Action Potential Dynamics by Transcranial Focused Ultrasound Stimulation in Rat Motor Cortex"
