@@ -21,3 +21,13 @@
 
 - 🔗 详细页面 → [KINE601-Proseminar.md](KINE601-Proseminar.md)
 - 🔗 相邻课程 → [KINE 602 →](KINE602-Research-Methods.md) | [KINE 606 →](KINE606-Motor-Neuroscience-I.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 说明 |
+|------|------|
+| 详细页面见 [KINE 601 Proseminar](KINE601-Proseminar.md) | 含 10 张闪卡 + 5 题 + 阅读清单 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

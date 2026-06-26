@@ -84,3 +84,25 @@
 3. **代谢整合是核心难点** — 不是背每个通路，是理解它们如何协调
 
 > 🔗 相邻课程：[KINE 629 ←](KINE629-Strength-Conditioning.md) | [KINE 648 →](KINE648-Instrumentation.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **McArdle 教材** | 标准运动生理教材 | TAMU 图书馆 |
+| **ACSM Guidelines (11th Ed)** | 运动测试标准 | TAMU 图书馆电子版 |
+| **TAMU Human Performance Lab** | 实践代谢车/ECG/NIRS | 系内联系 |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 背诵 Fick Equation + 衍生公式 | Week 1 |
+| 2 | 做心肺适应对比表（中央 vs 外周） | Week 3 |
+| 3 | 整理 RER / VT1/VT2 / Lactate Threshold 关系图 | Week 5 |
+| 4 | 复习高原适应时间线 | Week 7 |
+| 5 | 综合复习 + 闪卡 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

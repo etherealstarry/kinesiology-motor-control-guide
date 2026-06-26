@@ -79,3 +79,27 @@
 3. **重点区分 ITT 和 PP** — 为什么 ITT 是 FDA 推荐的分析方法
 
 > 🔗 相邻课程：[KINE 648 ←](KINE648-Instrumentation.md) | [KINE 614 ←](KINE614-Grant-Writing.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **TAMU IRB** | 人体实验伦理审批 | [rcb.tamu.edu](https://rcb.tamu.edu/) |
+| **ICH GCP E6(R2)** | 国际临床试验质量标准 | [免费](https://www.ich.org/page/efficacy-guidelines) |
+| **REDCap @ TAMU** | 临床数据管理系统 | 系内申请 |
+| **ClinicalTrials.gov** | 试验注册 + 查已注册试验 | [免费](https://clinicaltrials.gov/) |
+| **CONSORT Statement** | RCT 报告标准 | [免费](http://www.consort-statement.org/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 读 Belmont Report + ICH GCP E6(R2) 摘要 | Week 1 |
+| 2 | 背熟 Phase I-IV 区别 + ITT/PP 分析 | Week 3 |
+| 3 | 完成一个虚拟 RCT 的注册表单（练习用 ClinicalTrials.gov） | Week 5 |
+| 4 | 写 DSMB Charter 模板 | Week 7 |
+| 5 | 复习 AE/SAE 报告流程 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

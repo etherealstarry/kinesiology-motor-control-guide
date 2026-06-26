@@ -88,3 +88,27 @@
 ---
 
 > 🔗 相邻课程：[KINE 601 ←](KINE601-Proseminar.md) | [KINE 614 →](KINE614-Grant-Writing.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **G*Power 软件** | Power Analysis 必备 | [免费下载](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower) |
+| **TAMU Writing Center** | Research proposal 润色 | [预约](https://writingcenter.tamu.edu/) |
+| **TAMU IRB** | 人体实验伦理申请 | [rcb.tamu.edu](https://rcb.tamu.edu/) |
+| **CITI Program** | RCR 培训（KINE 601 同步） | [免费](https://about.citiprogram.org/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 下载 G*Power，练习 5 种常见 Power Analysis | 开学前 |
+| 2 | 读 Creswell Ch.1-3 | Week 1-2 |
+| 3 | 做 Power Analysis 练习题（每个 type 2 题） | Week 3-4 |
+| 4 | 写第 1 版 research proposal outline | Week 5 |
+| 5 | 去 Writing Center 润色 proposal | Week 8 |
+| 6 | 复习全部效度/信度概念（Quizlet 闪卡） | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

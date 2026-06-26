@@ -204,3 +204,25 @@ plt.show()
 | 相邻课程 → | [KINE 641 ←](KINE641-Developmental.md) |
 
 > 📝 **学术理论笔记**：已有详细课程笔记 → [Self-Organization.md](../必修课程/核心课程/Self-Organization.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **Complexity Explorer** | Santa Fe Institute 免费复杂系统课程 | [免费](https://www.complexityexplorer.org/) |
+| **Kelso (1995) *Dynamic Patterns*** | 奠基之作 | TAMU 图书馆 / MIT Press |
+| **TAMU Center for Complex Systems** | 跨学科复杂系统研究 | 校内 |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 看 Complexity Explorer 第 1 章（复杂系统入门） | 开学前 |
+| 2 | 用 Python 画 HKB 势函数 V(φ) 曲线 | Week 2 |
+| 3 | 读完 Haken, Kelso & Bunz (1985) 原文 | Week 4 |
+| 4 | 写 OFC vs DST 对比论文（Buchanan 最可能考的 Form） | Week 7 |
+| 5 | Final paper → DST 框架下设计一个实验 | Week 12 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

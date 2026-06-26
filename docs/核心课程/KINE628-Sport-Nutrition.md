@@ -81,3 +81,25 @@
 3. **和 KINE 426 有交叉** — 运动生理学基础帮助你理解营养机制
 
 > 🔗 相邻课程：[KINE 629 运动训练生理学 →](KINE629-Strength-Conditioning.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **TAMU 图书馆 — MSSE 期刊** | ACSM 立场声明全文 | [library.tamu.edu](https://library.tamu.edu) |
+| **ISSN (JISSN) 期刊** | 运动补剂证据 OA 期刊 | [免费开放获取](https://jissn.biomedcentral.com/) |
+| **ACSM 资源** | 立场声明全集 | [acsm.org](https://www.acsm.org/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 读 Thomas et al. (2016) ACSM 立场声明 | Week 1 |
+| 2 | 做补剂证据等级速查表（A/B/C 级） | Week 3 |
+| 3 | 整理碳水 loading / 蛋白质 timing 一页总结 | Week 5 |
+| 4 | 复习 RED-S 诊断标准 | Week 7 |
+| 5 | 综合复习 + Quizlet 闪卡 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

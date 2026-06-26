@@ -31,3 +31,24 @@
 1. **这是学术 networking 的隐形机会** — 外部 speaker 可能成为你的 external committee member
 2. **提问公式**：*"You mentioned X, and I was wondering how that relates to Y in [your own field]"*
 3. **不是必修但建议每学期选** — 接触不同研究方向比闷头做实验更有价值
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 说明 |
+|------|------|
+| [KNSM Events Calendar](https://knsm.tamu.edu/) | 系内 Seminar 排期 |
+| [TAMU Research Events](https://vpr.tamu.edu/) | 全校研究活动 |
+| 每学期选 1 学分保持全日制身份 | |
+
+## ✅ 学期清单
+
+| # | 任务 |
+|---|------|
+| 1 | 选 1 学分 KINE 681 |
+| 2 | 每场记 3 行笔记（Speaker→主题→1 个有趣发现） |
+| 3 | 每学期至少提问 1 次外部学者 |
+| 4 | 收集 5+ 好的 presentation slide 模板 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

@@ -128,3 +128,25 @@ GMs    反射→自主   FMS发展  峰值运动   维持   衰退+补偿
 > 📝 **学术理论笔记**：已有详细课程笔记 → [Motor-Neuroscience-Developmental.md](../必修课程/核心课程/Motor-Neuroscience-Developmental.md)
 >
 > 🔗 相邻课程：[KINE 640 ←](KINE640-Motor-Neuroscience-II.md) | [KINE 642 →](KINE642-Self-Organization.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **TAMU Libraries** | Thelen & Smith / Adolph 论文 | [library.tamu.edu](https://library.tamu.edu) |
+| **CDC Milestones** | 儿童发展里程碑参考 | [免费](https://www.cdc.gov/ncbddd/actearly/milestones/) |
+| **TGMD-3 手册** | 大肌肉动作发展测试 | TAMU 图书馆 |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 读 Thelen 婴儿踏步实验原文 | Week 1 |
+| 2 | 做全生命周期发展时间线（胎儿→老年） | Week 3 |
+| 3 | 背熟 5 个评估工具（GMA/AIMS/TGMD-3/MABC-2/Berg） | Week 5 |
+| 4 | 写 DST 框架下的发展分析（选 1 个生命周期阶段） | Week 7 |
+| 5 | 综合复习 + 闪卡 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

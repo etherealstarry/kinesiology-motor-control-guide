@@ -186,3 +186,27 @@
 > 📝 **学术理论笔记**：已有详细课程笔记 → [Motor-Neuroscience-II.md](../必修课程/核心课程/Motor-Neuroscience-II.md)
 > 
 > 🔗 相邻课程：[KINE 606 ←](KINE606-Motor-Neuroscience-I.md) | [KINE 641 →](KINE641-Developmental.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **SimNIBS** | tDCS/TMS 电场仿真 | [免费](https://simnibs.github.io/simnibs/) |
+| **MNE-Python** | EEG/MEG 分析 | [免费](https://mne.tools/) |
+| **Brian2** | 脉冲神经网络建模 | [免费](https://briansimulator.org/) |
+| **TAMU Software Center** | MATLAB/Python | [免费](https://software.tamu.edu/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 读 Rossi et al. (2009) TMS 安全指南（必读） | Week 1 |
+| 2 | 安装 SimNIBS + 做一个简单头部模型 | Week 2 |
+| 3 | 画 FBS vs OFC vs Active Inference 对比表 | Week 4 |
+| 4 | 确定 final paper 主题（选一个神经调控方法深挖） | Week 6 |
+| 5 | 去 Lei Lab 观摩一次 TMS 实验 | Week 8 |
+| 6 | Final paper → 完成方法学综述 + 实验方案 | Week 12 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

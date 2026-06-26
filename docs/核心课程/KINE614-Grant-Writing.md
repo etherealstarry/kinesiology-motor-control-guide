@@ -86,3 +86,28 @@
 4. **读 3-5 篇已资助的 Sample Grant** — 学习成功者的叙事结构
 
 > 🔗 相邻课程：[KINE 602 ←](KINE602-Research-Methods.md) | [KINE 651 →](KINE651-Clinical-Research.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **TAMU Sponsored Research Services** | 基金申请全程支持 | [vpr.tamu.edu](https://vpr.tamu.edu/) |
+| **NIH RePORT** | 查已资助项目/找 FOA | [report.nih.gov](https://report.nih.gov/) |
+| **NIAID Sample Grants** | 优秀 grant 范本 | [免费公开](https://www.niaid.nih.gov/grants-contracts/sample-applications) |
+| **TAMU Writing Center** | Specific Aims 页润色 | [预约](https://writingcenter.tamu.edu/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 确定你的研究问题（用于整个学期的 grant） | 开学前 |
+| 2 | 读 3 份 NIH Sample Grant（重点看 Specific Aims 页） | Week 1 |
+| 3 | 写第 1 版 Specific Aims（1 页） | Week 3 |
+| 4 | 完成 Significance + Innovation 部分 | Week 5 |
+| 5 | 去 TAMU SRS 咨询 Budget 部分 | Week 7 |
+| 6 | 完整 draft → Writing Center 审阅 | Week 10 |
+| 7 | Final submission | Week 14 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

@@ -80,3 +80,26 @@
 3. **了解每个技术的原理和局限** — 不能只按按钮不思考
 
 > 🔗 相邻课程：[KINE 638 ←](KINE638-Exercise-Physiology-II.md) | [KINE 651 →](KINE651-Clinical-Research.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **SENIAM Guidelines** | sEMG 电极放置国际标准 | [免费](http://www.seniam.org/) |
+| **Kubios HRV** | 心率变异性分析 | [kubios.com](https://www.kubios.com/) |
+| **TAMU Human Performance Lab** | 代谢车 / DXA / Bod Pod 实操 | 系内联系 |
+| **ACSM Guidelines** | 运动测试标准化流程 | TAMU 图书馆电子版 |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 背熟每个仪器的测量原理（不只要会操作） | Week 1-3 |
+| 2 | 每个仪器独立操作 ≥3 次 | 全学期 |
+| 3 | 整理仪器对比表（原理/测量参数/局限） | Week 5 |
+| 4 | 做一套完整测试流程（代谢车+ECG+EMG 同步） | Week 8 |
+| 5 | 复习操作原理 + 常见错误 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

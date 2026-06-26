@@ -39,3 +39,24 @@
 1. **这是最接近你研究方向的课** — 专题内容每学期变，但始终是最前沿的
 2. **KINE 689 是 Motor Neuroscience 培养方案中官方列出的 Advisor Directed Elective**
 3. **每个专题都是一次可能的 Rotation/Lab 机会** — 教授的 689 专题通常反映他当前的研究兴趣
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| **Howdy Portal** | 查当期 KINE 689 Section 标题和教授 | [howdy.tamu.edu](https://howdy.tamu.edu) |
+| **Canvas** | 专题详细 Syllabus 和阅读清单 | [canvas.tamu.edu](https://canvas.tamu.edu) |
+| **KNSM Graduate Advising** | 选课咨询 | knsm-grad@tamu.edu |
+
+## ✅ 学期清单
+
+| # | 任务 |
+|---|------|
+| 1 | 开学前在 Howdy 查当期 KINE 689 专题 |
+| 2 | 优先抢「Non-Invasive Brain Stimulation」 |
+| 3 | 如果没有匹配专题，联系导师提议 KINE 685 替代 |
+| 4 | 把专题内容和你的研究方向结合（final paper 一稿两用） |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

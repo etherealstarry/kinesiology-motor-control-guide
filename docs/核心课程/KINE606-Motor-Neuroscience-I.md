@@ -198,3 +198,27 @@ graph TD
 | 相邻课程 → | [KINE 640 (Motor Neuroscience II)](KINE640-Motor-Neuroscience-II.md) |
 
 > 📝 **学术理论笔记**：已有详细课程笔记 → [Motor-Neuroscience-I.md](../必修课程/核心课程/Motor-Neuroscience-I.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **TAMU Libraries** | 获取 Kandel / Purves 教材电子版 | [library.tamu.edu](https://library.tamu.edu) |
+| **NeuroSynth** | 按脑区搜 fMRI 文献 | [免费](https://neurosynth.org/) |
+| **PsychoPy** | 行为实验设计（免费） | [psychopy.org](https://www.psychopy.org/) |
+| **TAMU Software Center** | Python/Jupyter 免费下载 | [免费](https://software.tamu.edu/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 画一张完整的皮层→脊髓运动控制通路图 | Week 1 |
+| 2 | 读 Wolpert et al. (2011) Fig 1 + 写 1 页总结 | Week 3 |
+| 3 | 用 Python 写一个简单 OFC 仿真 | Week 5 |
+| 4 | 做 Adaptation vs Skill Learning 对比表 | Week 7 |
+| 5 | 准备 final paper 主题（选 1 个运动学习机制深挖） | Week 9 |
+| 6 | Final paper → Writing Center 审阅 | Week 12 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)

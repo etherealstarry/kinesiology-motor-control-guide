@@ -84,3 +84,25 @@
 4. **实践 > 理论** — 去 TAMU Rec Center 亲自体验不同训练方法
 
 > 🔗 相邻课程：[KINE 628 ←](KINE628-Sport-Nutrition.md) | [KINE 638 →](KINE638-Exercise-Physiology-II.md)
+
+---
+
+## 🏫 TAMU 官方资源
+
+| 资源 | 适用性 | 链接 |
+|------|--------|------|
+| **NSCA CSCS 教材** | 力量训练标准教材 | TAMU 图书馆电子版 |
+| **TAMU Rec Center** | 亲自实践不同训练方法 | [rec.tamu.edu](https://rec.tamu.edu/) |
+| **JISSN 期刊** | 训练适应证据免费获取 | [开放获取](https://jissn.biomedcentral.com/) |
+
+## ✅ 备考清单
+
+| # | 任务 | 时间 |
+|---|------|------|
+| 1 | 读 NSCA Ch.17-19（周期化 + 爆发力） | Week 1-2 |
+| 2 | 做周期化类型对比表（LP/DUP/Block/Conjugate） | Week 3 |
+| 3 | 整理力-速曲线 + Hill 模型要点 | Week 5 |
+| 4 | 复习 PAP/Complex Training 设计原则 | Week 7 |
+| 5 | 综合复习 + 闪卡 | 考前 1 周 |
+
+> 📂 [TAMU 通用备考资源总汇 →](../备考资源总汇.md)
