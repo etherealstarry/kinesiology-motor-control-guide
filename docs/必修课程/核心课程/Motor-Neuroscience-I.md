@@ -451,6 +451,14 @@ $$
     **对你的意义**：支持你对运动计划与执行（KINE 606 Week 7-8）的理解，揭示了序列动作产生的在线规划机制，为你的研究方向（运动学习）提供了理论框架。  
     **链接**：[Trends in Cognitive Sciences](https://doi.org/10.1016/j.tics.2026.06.002)
 
+!!! tip "A cortical circuit for orchestrating oromanual food manipulation"
+    **作者**：An, X., Li, Y., Matho, K., Mohan, H., Xu, X. H., Boato, F., Whishaw, I. Q., Kepecs, A., & Huang, Z. J.  
+    **期刊**：Neuron (2026)  
+    **影响因子**：17.0  
+    **核心发现**：通过光遗传学筛选鉴定出吻侧前肢-口面部区（RFO），该运动皮层区域可生成并协调自然的手-口取食动作。RFO 的金字塔束神经元（PT）和颅内神经元（IT）分别调控灵巧手-口运动的执行和时间协调。  
+    **对你的意义**：直接涉及运动皮层功能组织，与你对运动控制（KINE 606 Week 3-4）的理解高度相关。RFO 区域的发现为运动皮层的多效应器协调研究提供了新视角。  
+    **链接**：[Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(26)00093-0)
+
 ### 2026 年 5 月
 
 !!! tip "A communication subspace relays context-dependent actions from human prefrontal to motor cortex"

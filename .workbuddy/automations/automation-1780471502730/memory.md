@@ -4,6 +4,15 @@
 
 ### 最近执行记录
 
+- **2026-06-25**：执行更新。
+  - 添加 3 篇顶刊论文：
+    1. Brain Stimulation (2026 年 6 月 24 日) — "Parameter Specific Modulation of Neuronal Firing and Extracellular Action Potential Dynamics by Transcranial Focused Ultrasound Stimulation in Rat Motor Cortex"
+    2. Nature Neuroscience (2026 年 6 月 12 日) — "Striatal pathways dissociably control action counting and goal-directed steering"
+    3. Trends in Cognitive Sciences (2026 年 6 月 10 日) — "Online planning of sequential actions"
+  - 提交：`dcf201e chore: 自动更新 - 2026-06-25`
+  - 部署：成功（HTTP 200）
+  - 注意：三篇论文分别与 TUS 神经调控、纹状体通路动作控制、在线动作规划相关，都是顶刊/领域顶刊高质量内容
+
 - **2026-06-10**：执行更新。
   - 添加 1 篇顶刊论文：
     1. Nature Neuroscience (2026 年 6 月 9 日) — "Human learning of noninvasive brain–computer interfaces via manifold geometry"
@@ -27,6 +36,8 @@
   - 注意：搜索近 1 个月顶刊论文结果有限，只找到 1 篇符合标准的 Nature Neuroscience 论文（5 月 1 日发表，略超 1 个月但仍属近期高质量内容）
 
 - **2026-06-03**：跳过更新。原因：今天已有提交 `96d040e fix: 修正 README 中的网站链接`，根据"每天最多提交 1 次"规则，跳过本次自动更新。
+
+- **2026-06-23**：跳过更新。原因：今天已有 4 次提交（STAT 651/652 学习指南相关），根据"每天最多提交 1 次"规则，跳过本次自动更新。
 
 ### 执行规则摘要
 
