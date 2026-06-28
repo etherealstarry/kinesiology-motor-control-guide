@@ -1,0 +1,323 @@
+3D Motion Analysis
+Achilles Tendon
+Active Tension
+Actor-Critic
+Adams' Closed-Loop Theory
+Aerobic Metabolism
+Alpha Motor Neuron
+Anaerobic Metabolism
+Angular Acceleration
+Angular Displacement
+Angular Velocity
+Antalgic Gait
+Anterior-Posterior GRF
+Anteroposterior Axis
+Articular Cartilage
+Articular Surface
+Associative Stage
+Attention Allocation
+Attention Capacity
+Attentional Focus
+Autologous Chondrocyte Implantation
+Autonomous Stage
+Average Feedback
+Ball-and-Socket Joint
+Bandwidth Feedback
+Basal Ganglia
+Base of Support
+Bernstein's Problem
+Beta-Alanine
+Bilateral Transfer
+Blocked Practice
+Body Stability
+Body Transport
+Body-Scale Invariant
+Body-Scale Variant
+Bone Mineral Density
+Bone Remodeling
+Braking Force
+Branched-Chain Amino Acid
+Cancellous Bone
+Capillary Density
+Cardiac Muscle
+Center of Gravity
+Center of Mass
+Center of Pressure
+Closed Kinetic Chain
+Closed Skill
+Co-contraction
+Cognitive Map
+Cognitive Skill
+Compact Bone
+Concentric Contraction
+Concurrent Feedback
+Condyloid Joint
+Conscious Processing
+Conservation of Energy
+Constant Practice
+Constrained Action Hypothesis
+Constraints-Led Approach
+Contextual Interference Effect
+Continuous Skill
+Contractile Component
+Control Parameter
+Coordination Dynamics
+Coronal Plane
+Cortical Bone
+Creatine Kinase
+Cross-Bridge
+Declarative Memory
+Deep Fascia
+Degrees of Freedom Problem
+Delayed Feedback
+Denervation Atrophy
+Discrete Skill
+Disuse Atrophy
+Divided Attention
+Double Support
+Dual-Process Theory
+Dual-Task Paradigm
+Dynamic Equilibrium
+Dynamic Systems Theory
+Dynamical Systems Approach
+Eccentric Contraction
+Ecological Psychology
+Elastic Cartilage
+Elastic Energy
+Elastic Region
+Ellipsoidal Joint
+Error Detection and Correction
+Excitation-Contraction Coupling
+External Focus
+Extinction of Habits
+Extracellular Matrix
+Extrinsic Feedback
+Faded Feedback
+Failure Region
+Fascial Plasticity
+Fast-Twitch
+Fiber Type Composition
+Fine Motor Skill
+Fitts and Posner Model
+Force Plate
+Force-Length Relationship
+Force-Velocity Relationship
+Forward Dynamics
+Free Body Diagram
+Frequency of Feedback
+Frontal Plane
+Gait Cycle
+Gamma Motor Neuron
+Generalized Motor Program
+Gentile Two-Dimensional Classification
+Gliding Joint
+Glycolytic Capacity
+Goal-Directed Action
+Golgi Tendon Organ
+Grid Cell
+Gross Motor Skill
+Ground Reaction Force
+HKB Model
+Habitual Action
+High CI
+Hill's Model
+Hinge Joint
+Hyaline Cartilage
+Hyaluronic Acid
+IGF-1
+IL-6
+Immediate Feedback
+Inertial Measurement Unit
+Initial Contact
+Initial Swing
+Instrumental Learning
+Internal Focus
+Intertrial Variability
+Intramuscular EMG
+Intrinsic Feedback
+Inverse Dynamics
+Inverse Optimization
+Isokinetic Contraction
+Isometric Contraction
+Isotonic Contraction
+Joint Capsule
+Joint Torque
+Jump Height
+Kinetic Energy
+Knowledge of Performance
+Knowledge of Results
+Lactic Acid
+Launch Angle
+Law of Inertia
+Linear Region
+Link Segment Model
+Loading Response
+Long-Term Depression
+Long-Term Memory
+Long-Term Potentiation
+Longitudinal Axis
+Low CI
+Maximum Height
+Mechanical Advantage
+Mechanical Loading
+Medial-Lateral GRF
+Mediolateral Axis
+Memory Consolidation
+Memory Trace
+Mid Stance
+Minimum Jerk
+Minimum Torque Change
+Mitochondrial Density
+Model-Based
+Model-Free
+Moment of Force
+Motion Capture
+Motor Control
+Motor Development
+Motor Learning
+Motor Memory
+Motor Neuron
+Motor Skill
+Motor Unit
+Movement Time
+Muscle Atrophy
+Muscle Fiber
+Muscle Force Estimation
+Muscle Spindle
+Muscle Tone
+Negative Transfer
+Neural Plasticity
+Newton's First Law
+Newton's Second Law
+Newton's Third Law
+Normal Force
+Object Manipulation
+Open Kinetic Chain
+Open Skill
+Operant Conditioning
+Optimal Length
+Order Parameter
+Outcome Devaluation
+Oxidative Capacity
+Oxidative Phosphorylation
+Oxidative Stress
+Parallel Elastic Component
+Parkinsonian Gait
+Part Practice
+Passive Tension
+Patellar Tendon
+Pavlovian Conditioning
+Perceptual Trace
+Perceptual-Motor Skill
+Phase Transition
+Pivot Joint
+Place Cell
+Plane Joint
+Plastic Region
+Policy Gradient
+Positive Transfer
+Potential Energy
+Proactive Interference
+Procedural Memory
+Progressive Part Practice
+Projectile Motion
+Proprioceptive Neuromuscular Facilitation
+Propulsive Force
+Protein Degradation
+Protein Synthesis
+Q-Learning
+REINFORCE Algorithm
+Random Practice
+Range of Motion
+Reaction Time
+Reactive Oxygen Species
+Reciprocal Inhibition
+Reciprocal Innervation
+Regulatory Conditions
+Reinforcement Learning
+Relative Frequency
+Release Height
+Release Speed
+Release Velocity
+Response Time
+Resting Length
+Resultant Force
+Retroactive Interference
+Rheumatoid Arthritis
+Rotator Cuff
+Saddle Joint
+Sagittal Plane
+Satellite Cell
+Schema Theory
+Selective Attention
+Self-Organization
+Serial Practice
+Serial Skill
+Series Elastic Component
+Shear Force
+Short-Term Memory
+Single Support
+Skeletal Muscle
+Sleep-Dependent Consolidation
+Sliding Filament Theory
+Slow-Twitch
+Smooth Muscle
+Spastic Gait
+Specificity of Learning
+Stance Phase
+Static Equilibrium
+Step Length
+Step Width
+Stiffness in Muscle
+Stimulus-Response
+Stress Fracture
+Stress Relaxation
+Stretch Reflex
+Stride Length
+Summary Feedback
+Superficial Fascia
+Surface EMG
+Sustained Attention
+Swing Phase
+Swing Velocity
+Synaptic Plasticity
+Synovial Fluid
+Synovial Joint
+TD Error
+TGF-β
+TNF-α
+Temporal Difference Learning
+Terminal Feedback
+Terminal Stance
+Terminal Swing
+Toe Region
+Total Tension
+Trabecular Bone
+Transfer of Learning
+Transverse Plane
+Trendelenburg Gait
+Trendelenburg Sign
+Type I Collagen
+Type I Fiber
+Type II Collagen
+Type III Collagen
+Type IIa Fiber
+Type IIb Fiber
+Ubiquitin-Proteasome System
+Ultimate Strength
+Unconscious Processing
+Value Function
+Variable Practice
+Vector Addition
+Vector Resolution
+Verbal-Cognitive Stage
+Vertical GRF
+Vestibular System
+Walking Speed
+Water Content
+Whole Practice
+Wolff's Law
+Wolff's Law in Cartilage
+Working Memory
+Yield Point
+Young's Modulus
