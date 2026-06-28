@@ -419,6 +419,22 @@ $$
 
 ### 2026 年 6 月
 
+!!! tip "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks"
+    **作者**：Fujimoto, S. H., Fujimoto, A., Elorette, C., Seltzer, A., Andraka, E., Herbert, K., Verma, G., Janssen, W. G. M., Fleysher, L., Folloni, D., Choi, K. S., Russ, B. E., Mayberg, H. S., & Rudebeck, P. H.  
+    **期刊**：Nature Neuroscience (2026)  
+    **影响因子**：25.0  
+    **核心发现**：深部脑刺激（DBS）可促进白质微结构重塑（FA 值升高、髓鞘化程度提升），并重组全脑功能网络（特别是默认模式网络 DMN），为 DBS 治疗抑郁症的机制提供了结构可塑性和功能调控的双重解释。  
+    **对你的意义**：直接涉及神经调控机制，与你的研究方向（TMS/运动皮层可塑性）高度相关。DBS 诱导的白质可塑性为神经调控的长期效应提供了新视角。  
+    **链接**：[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02301-4)
+
+!!! tip "Real-time reinforcement for human-machine interface control"
+    **作者**：Vassiliadis, P., Pinheiro, D. L., Fleury, L., Zenon, A., Esparza-Iaizzo, M., Ingster, A., Micera, S., Shokur, S., & Hummel, F. C.  
+    **期刊**：Neuron (2026)  
+    **影响因子**：17.0  
+    **核心发现**：在运动过程中（而非运动结束后）给予强化反馈，可显著提升人机接口控制能力；该效应在感觉反馈受限时最为显著，对中风患者同样有效，可增强在线运动校正、稳定成功动作。  
+    **对你的意义**：支持你对运动学习（KINE 606 Week 11-12）的理解，为人机接口和神经康复提供了实时反馈策略，与你的研究方向（TMS/运动皮层可塑性）具有跨学科相关性。  
+    **链接**：[Neuron](https://doi.org/10.1016/j.neuron.2026.05.009)
+
 !!! tip "Human learning of noninvasive brain–computer interfaces via manifold geometry"
     **作者**：Busch, E. L., Fincke, E. C., Lajoie, G., Krishnaswamy, S., & Turk-Browne, N. B.  
     **期刊**：Nature Neuroscience (2026)  
