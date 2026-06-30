@@ -4,6 +4,14 @@
 
 ### 最近执行记录
 
+- **2026-06-28**：执行更新。
+  - 添加 2 篇顶刊论文：
+    1. Nature Neuroscience (2026 年 6 月 1 日) — "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks"
+    2. Neuron (2026 年 6 月 15 日) — "Real-time reinforcement for human-machine interface control"
+  - 提交：`ee6c606 chore: 自动更新 - 2026-06-28`
+  - 部署：成功（HTTP 200）
+  - 注意：Nature Neuroscience 论文关于 DBS 诱导白质可塑性，与神经调控相关；Neuron 论文关于实时强化学习提升人机接口控制，与运动学习/神经康复相关
+
 - **2026-06-26**：执行更新。
   - 添加 1 篇顶刊论文：
     1. Neuron (2026 年 6 月 17 日) — "A cortical circuit for orchestrating oromanual food manipulation"

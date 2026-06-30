@@ -14,6 +14,8 @@
     
     👉 **[核心课程总览 →](核心课程/index.md)** — 18 门 KINE/STAT 课程独立页面（含自编闪卡、模拟考题、阅读清单）。
 
+    👉 **[GERM 101/102 德语学习指南 →](GERM101-102_德语学习指南.md)** — 德语入门课 + TAMU 旁听完整攻略。
+
 ---
 
 本指南模仿 [CS自学指南](https://csdiy.wiki/) 的风格，专为 **Texas A&M University (TAMU) Kinesiology 系 Motor Neuroscience 方向博士生** 打造。
